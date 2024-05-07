@@ -12,7 +12,7 @@ title                    : "Anil Kumar"
 title_separator          : "-"
 name                     : &name "Anil Kumar"
 description              : &description "Software Architect at Amdocs Inc."
-url                      : https://anilkumar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anilkumaramdocs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anilkumar.github.io"
 
